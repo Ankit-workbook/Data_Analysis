@@ -74,3 +74,43 @@ Performed the following cleaning steps using `pandas`:
 - excel
 - kaggle
 
+
+
+Contribution Areas
+
+📊 Additional visualization types
+🤖 Advanced ML models
+📈 External data integration
+🧪 Statistical test enhancements
+📝 Documentation improvements
+
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+👨‍💻 Author
+Ankit Yadav
+
+📧 Email: ankit005.ac@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/ankityadav05/
+🐙 GitHub: https://github.com/Ankit-workbook
+
+
+📞 Contact & Support
+
+🐛 Bug Reports: GitHub Issues
+💬 Discussions: GitHub Discussions
+📧 Direct Contact: ankit.yadav@company.com
+
+
+🙏 Acknowledgments
+
+Survey respondents for valuable insights
+Financial domain experts for validation
+Open-source community for tools and libraries
+Senior management for strategic guidance
+
+
+
+⭐ Star this repository if you found it helpful!
+Made with ❤️ for the financial analytics community
