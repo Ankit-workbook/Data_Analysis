@@ -96,11 +96,7 @@ Ankit Yadav
 🐙 GitHub: https://github.com/Ankit-workbook
 
 
-📞 Contact & Support
 
-🐛 Bug Reports: GitHub Issues
-💬 Discussions: GitHub Discussions
-📧 Direct Contact: ankit.yadav@company.com
 
 
 🙏 Acknowledgments
