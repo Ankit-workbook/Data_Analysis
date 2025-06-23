@@ -49,7 +49,7 @@ Performed the following cleaning steps using `pandas`:
 
 ---
 
-## 📈 Analysis Performed (No Graphs Used)
+## 📈 Analysis Performed 
 
 - Value counts using `df['column'].value_counts()`
 - Grouped analysis using `df.groupby()`
