@@ -30,7 +30,7 @@ This project explores investor behavior using survey data collected in `Finance_
 Performed the following cleaning steps using `pandas`:
 - Standardized column names and values (`str.strip().title()`)
 - Checked for missing/null values (none found)
-- Fixed inconsistent labels (e.g., `Stock_Marktet` ➝ `Stock_Market`)
+- Fixed inconsistent labels (e.g., `Stock_Marktet_analysis data` ➝ `Stock_Market`)
 - Converted rankings to numeric for preference comparison
 
 ---
